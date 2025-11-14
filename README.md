@@ -31,7 +31,7 @@ This notebook contains several analyses, including:
 2.  **Perception Analysis:** A pie chart of `Q13_NecessityAltmetricsEducation`.
 3.  **Familiarity vs. Understanding:** A grouped bar chart (`Q4` vs. `Q5`) showing the relationship between familiarity and self-assessed understanding.
 4.  **Statistical Proof:** A Chi-Square test confirmed a **statistically significant relationship** (p < 0.05) between a student's academic level and their familiarity with altmetrics.
-5.  **Predictive Model:** The Logistic Regression model was able to predict student familiarity with **[XX.XX]% accuracy**.
+5.  **Predictive Model:** The Logistic Regression model was able to predict student familiarity with **75.36% accuracy**.
 
 ---
 
