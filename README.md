@@ -6,8 +6,8 @@ The goal of this project was to move beyond the descriptive statistics of my pap
 
 **This project demonstrates my readiness for graduate-level STEM research in Information Studies.**
 
-![Familiarity vs Understanding Chart](my_grouped_chart.png)
-![Student Comments Word Cloud](my_word_cloud.png)
+![Familiarity vs Understanding Chart](understanding_level_familiarity_chart.png)
+![Student Comments Word Cloud](word_cloud.png)
 
 ---
 
